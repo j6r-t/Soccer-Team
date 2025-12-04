@@ -120,17 +120,3 @@ A mobile app that allows friends and local players to create **balanced soccer t
 **Phase 3:** Visualization & charts (player radar, team stats, badges)  
 **Phase 4:** Scheduling & notifications  
 **Phase 5:** Testing & deployment (APK for Android, later iOS)  
-
----
-
-## 📜 License
-MIT License – see [LICENSE](LICENSE) for details.  
-
----
-
-## 🎯 Optional Add-ons
-- Add screenshots or GIFs for live match screen  
-- Include **badges images** in README for visual appeal  
-- Add shields/badges for Flutter version, build status, and Supabase connection  
-
----
